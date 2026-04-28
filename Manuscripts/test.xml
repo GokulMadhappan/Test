@@ -1,0 +1,11 @@
+<library>
+  <book id="B001" genre="Fantasy">Hogwarts Legacy Guide</book>
+  <book id="B002" genre="SciFi">Galactic Adventures</book>
+  <author id="A101">Jane Doe</author>
+  <author id="A102">John Smith</author>
+  <publisher>Universal Press</publisher>
+  <year>2026</year>
+  <price currency="USD">19.99</price>
+  <availability status="InStock">True</availability>
+  <rating>4.7</rating>
+</library>
