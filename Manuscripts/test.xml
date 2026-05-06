@@ -1,10 +1,10 @@
 <library>
   <book id="B001" genre="Fantasy">Hogwarts Legacy Guide</book>
   <book id="B002" genre="SciFi">Galactic Adventures</book>
-  <author id="A101">joe Doe</author>
+  <author id="A101">jscob Doe</author>
   <author id="A102">john Smith</author>
   <publisher>Universal Press</publisher>
-  <year>2000</year>
+  <year>1998</year>
   <price currency="USD">19.99</price>
   <availability status="InStock">True</availability>
   <rating>4.7</rating>
