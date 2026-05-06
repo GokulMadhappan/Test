@@ -4,7 +4,7 @@
   <author id="A101">Jane Doe</author>
   <author id="A102">deep Smith</author>
   <publisher>Universal Press</publisher>
-  <year>3000</year>
+  <year>2000</year>
   <price currency="USD">19.99</price>
   <availability status="InStock">True</availability>
   <rating>4.7</rating>
