@@ -7,7 +7,7 @@
   <year>1998</year>
   <price currency="USD">19.9999</price>
   <availability status="InStock">True</availability>
-  <rating>4.7</rating>
+  <rating>4.7</rating>dfgdfddg
 </library>
 <library>
   <book id="B001" genre="Fantasy">Hogwarts Legacy Guide</book>
@@ -15,7 +15,7 @@
   <author id="A101">Jane Doe</author>
   <author id="A102">John Smith</author>
   <publisher>data Press</publisher>
-  <year>1009</year>
+  <year>1009</year>dsfsdf
   <price currency="USD">19.99</price>
   <availability status="InStock">True</availability>
   <rating>4.7</rating>
