@@ -14,7 +14,7 @@
   <book id="B002" genre="SciFi">Galactic Adventures</book>
   <author id="A101">Jane Doe</author>
   <author id="A102">John Smith</author>
-  <publisher>Universal Press</publisher>
+  <publisher>data Press</publisher>
   <year>1009</year>
   <price currency="USD">19.99</price>
   <availability status="InStock">True</availability>
